@@ -1,0 +1,11 @@
+C:\Git\CSharpTopicsSamples\CSharpTopicsSamples\bin\Debug\netcoreapp2.0\CSharpTopicsSamples.deps.json
+C:\Git\CSharpTopicsSamples\CSharpTopicsSamples\bin\Debug\netcoreapp2.0\CSharpTopicsSamples.runtimeconfig.json
+C:\Git\CSharpTopicsSamples\CSharpTopicsSamples\bin\Debug\netcoreapp2.0\CSharpTopicsSamples.runtimeconfig.dev.json
+C:\Git\CSharpTopicsSamples\CSharpTopicsSamples\bin\Debug\netcoreapp2.0\CSharpTopicsSamples.dll
+C:\Git\CSharpTopicsSamples\CSharpTopicsSamples\bin\Debug\netcoreapp2.0\CSharpTopicsSamples.pdb
+C:\Git\CSharpTopicsSamples\CSharpTopicsSamples\obj\Debug\netcoreapp2.0\CSharpTopicsSamples.csprojAssemblyReference.cache
+C:\Git\CSharpTopicsSamples\CSharpTopicsSamples\obj\Debug\netcoreapp2.0\CSharpTopicsSamples.csproj.CoreCompileInputs.cache
+C:\Git\CSharpTopicsSamples\CSharpTopicsSamples\obj\Debug\netcoreapp2.0\CSharpTopicsSamples.AssemblyInfoInputs.cache
+C:\Git\CSharpTopicsSamples\CSharpTopicsSamples\obj\Debug\netcoreapp2.0\CSharpTopicsSamples.AssemblyInfo.cs
+C:\Git\CSharpTopicsSamples\CSharpTopicsSamples\obj\Debug\netcoreapp2.0\CSharpTopicsSamples.dll
+C:\Git\CSharpTopicsSamples\CSharpTopicsSamples\obj\Debug\netcoreapp2.0\CSharpTopicsSamples.pdb
